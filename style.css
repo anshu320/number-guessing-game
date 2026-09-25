@@ -1,0 +1,28 @@
+html {
+        font-family: sans-serif;
+      }
+
+      body {
+        width: 50%;
+        max-width: 800px;
+        min-width: 480px;
+        margin: 0 auto;
+        background-color: rgb(126, 120, 149);
+      }
+
+      .form input[type="number"] {
+        width: 200px;
+        border-radius: 5px;
+      }
+      
+      button{
+        border-radius: 10px;
+        color: rgb(244, 241, 241);
+        background-color: black;
+        
+      }
+
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
